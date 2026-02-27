@@ -13,20 +13,20 @@
   "checkApproval": true,
   "language": "en",
   "notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-  "nickNameBot": "GoatBot",
+  "nickNameBot": "YOUR BABY",
   "prefix": "!",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "61557290571000",
-    "100087625774227",
-    "61584035788710"
+    "61587759572328",
+    "9371156392907659",
+    "61579279925067"
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": ["61557290571000",
+    "whiteListIds": ["61587759572328",
 "61584035788710",
       ""
     ],
